@@ -4,4 +4,4 @@ c=30
 sum=a+b+c
 
 
-print(c)
+print(sum)
